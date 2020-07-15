@@ -34,8 +34,6 @@ This website was built using React and also uses mapbox to show maps layered by 
 
 ->Pie chart, which shows positive/negative partition by count. Also availble to control historical period.
 
-->Live table with tweets.
-
 ->Possible to change list of 'key words', in Config.py
 
 **Novelty**

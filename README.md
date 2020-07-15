@@ -68,6 +68,6 @@ The proposed idea has implemented on the local host by using FLASK web framework
 Also we can add options like to perform sentiment analysis on any other topics just by typing the keyword of it. Also more effective types of dashboard visualization can be plotted.
 Also it’s essential to identify fake tweets as well to stop the spreading of false information among people.
 
-Youtube Video Link : 
+**Youtube Video Link** : 
 
 ![1_vp1M37AGMOFwCvLxVm62IA](https://user-images.githubusercontent.com/52466713/87548081-a0663380-c6c9-11ea-858c-20246ca1c6b5.jpeg)

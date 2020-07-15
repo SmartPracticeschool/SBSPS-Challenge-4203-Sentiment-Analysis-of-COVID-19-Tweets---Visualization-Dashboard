@@ -53,6 +53,8 @@ This will lead to increase the mutual understanding and harmony between governme
 
 _Frontend_: A simple user friendly webpage will be created by using dash plotly and python for convenience of the user. Keywords of sentiment analysis are COVID19 , CORONA and LOCKDOWN all are  predefined by the backend side. We are using herokuapp for the deployment of the script.
 
+![1593964642831](https://user-images.githubusercontent.com/52466713/87584563-5138f680-c6fb-11ea-81db-ed31bac6216e.png)
+
 _Backend_:  Python algorithms fetch tweets related to COVID19 for this we use twitter API configuration .Now after fetching, Tokenization, filtration/Cleaning, removing stop words and Classification of tweets proceeded by using the python algorithm which is applied at the backend and then it generates the output sentiments with the help of three variables positive, negative and neutral then return these values to the webpage.
 For visualization Pie Chart and Historical scatter moving average chart. With dynamic historical window size will be generated on the webpage according to the received data .
 

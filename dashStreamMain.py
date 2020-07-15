@@ -59,9 +59,7 @@ def quick_color(s):
     elif s <= -PositiveNegativeThreshold:
         # negative:
         return "#b30000"
-    elif s = PositiveNegativeThreshold:
-        #neutral
-        return "yellow"
+ 
 
     else:
         return app_colors['background']

@@ -56,6 +56,11 @@ _Frontend_: A simple user friendly webpage will be created by using dash plotly 
 _Backend_:  Python algorithms fetch tweets related to COVID19 for this we use twitter API configuration .Now after fetching, Tokenization, filtration/Cleaning, removing stop words and Classification of tweets proceeded by using the python algorithm which is applied at the backend and then it generates the output sentiments with the help of three variables positive, negative and neutral then return these values to the webpage.
 For visualization Pie Chart and Historical scatter moving average chart. With dynamic historical window size will be generated on the webpage according to the received data .
 
+**Website Overview**
+
+![Screenshot (1227)](https://user-images.githubusercontent.com/52466713/87582816-97408b00-c6f8-11ea-9f13-aedd3ecc3769.png)
+
+
 **Technologies & Tools**	
 
 Python 3.6,pandas,threading,sqlite3,textblob,tweepy,plotly,dash,dash-html-components,dash-core-componentsIBM Watson Studio, Herokuapp  Deployment, Any Web frameworks.
@@ -65,11 +70,6 @@ Python 3.6,pandas,threading,sqlite3,textblob,tweepy,plotly,dash,dash-html-compon
 
  We can add options like to perform sentiment analysis on any other topics just by typing the keyword of it. Also more effective types of dashboard visualization can be plotted.
 Also it’s essential to identify fake tweets as well to stop the spreading of false information among people.
-
-**Website Overview**
-
-![Screenshot (1227)](https://user-images.githubusercontent.com/52466713/87582816-97408b00-c6f8-11ea-9f13-aedd3ecc3769.png)
-
 
 **Website Link** : http://weap-amir.herokuapp.com
 

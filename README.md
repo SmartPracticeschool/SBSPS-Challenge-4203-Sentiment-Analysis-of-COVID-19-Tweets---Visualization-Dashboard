@@ -53,9 +53,10 @@ This will lead to increase the mutual understanding and harmony between governme
 
 **Technology Stack**
 
-_Frontend_:  A simple user friendly webpage will be created by using HTML, CSS and JavaScript for the convenience of the user. The user has to put their desired time period for the sentiment analysis on COVID19 or for the sentiments of LOCKDOWN extension tweets and after that just click on given START button.
+_Frontend_: A simple user friendly webpage will be created by using dash plotly and python for convenience of the user. Keywords of sentiment analysis are COVID19 , CORONA and LOCKDOWN all are  predefined by the backend side. We are using herokuapp for the deployment of the script.
 
-_Backend_:  After clicking on START button the command has been transferred to the to the localhost server i.e our python algorithms. It will fetch the tweets related to COVID19 for this we use twitter API configuration .Now after fetching, Tokenization, filtration/Cleaning, removing stop words and Classification of tweets proceeded by using the python algorithm which is applied at the backend and then it generates the output sentiments with the help of three variables positive, negative and neutral then return these values to the webpage.
+_Backend_:  Python algorithms fetch tweets related to COVID19 for this we use twitter API configuration .Now after fetching, Tokenization, filtration/Cleaning, removing stop words and Classification of tweets proceeded by using the python algorithm which is applied at the backend and then it generates the output sentiments with the help of three variables positive, negative and neutral then return these values to the webpage.
+For visualization Pie Chart and Historical scatter moving average chart. With dynamic historical window size will be generated on the webpage according to the received data .
 
 **Technologies & Tools**	
 

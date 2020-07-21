@@ -10,7 +10,7 @@ The sentiment analysis of Indians after the extension of lockdown announcements 
 
 **Aim of the Project**
 
-The aim of this project is to create an ineractive web based COVID-19 Sentiment Analyser. The primary goal is to develop a space where everyone can visualize the impact of COVID-19 on human society in easy and simpler way.This helps to realize how the sentiment of people changes during this time of COVID-19.It will enable visitors to learn impact of COVID-19 by interacting with graphs,maps,charts and other interactive elements as they proceed through the web.
+The aim of this project is to create an interactive web based COVID-19 Sentiment Analyser. The primary goal is to develop a space where everyone can visualize the impact of COVID-19 on human society in easy and simpler way.This helps to realize how the sentiment of people changes during this time of COVID-19.It will enable visitors to learn impact of COVID-19 by interacting with graphs,maps,charts and other interactive elements as they proceed through the web.
 To develop a twitter sentiment analysis model to understand the following:
 
 _1. Get to know people’s sentiment towards the epidemic_
